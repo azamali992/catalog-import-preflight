@@ -1,0 +1,302 @@
+[
+  {
+    "source_row": 3,
+    "raw_quantity": "80 g",
+    "expected_status": "mass",
+    "expected_value": "80"
+  },
+  {
+    "source_row": 10,
+    "raw_quantity": "",
+    "expected_status": "missing",
+    "expected_value": null
+  },
+  {
+    "source_row": 15,
+    "raw_quantity": "700ml",
+    "expected_status": "volume",
+    "expected_value": "700"
+  },
+  {
+    "source_row": 17,
+    "raw_quantity": "1pcs",
+    "expected_status": "unsupported",
+    "expected_value": null
+  },
+  {
+    "source_row": 19,
+    "raw_quantity": "300 g",
+    "expected_status": "mass",
+    "expected_value": "300"
+  },
+  {
+    "source_row": 20,
+    "raw_quantity": "1000 g",
+    "expected_status": "mass",
+    "expected_value": "1000"
+  },
+  {
+    "source_row": 27,
+    "raw_quantity": "590 g",
+    "expected_status": "mass",
+    "expected_value": "590"
+  },
+  {
+    "source_row": 30,
+    "raw_quantity": "610 g",
+    "expected_status": "mass",
+    "expected_value": "610"
+  },
+  {
+    "source_row": 44,
+    "raw_quantity": "1 kg",
+    "expected_status": "mass",
+    "expected_value": "1000"
+  },
+  {
+    "source_row": 55,
+    "raw_quantity": "78,9g",
+    "expected_status": "mass",
+    "expected_value": "78.9"
+  },
+  {
+    "source_row": 64,
+    "raw_quantity": "",
+    "expected_status": "missing",
+    "expected_value": null
+  },
+  {
+    "source_row": 65,
+    "raw_quantity": "100",
+    "expected_status": "unsupported",
+    "expected_value": null
+  },
+  {
+    "source_row": 66,
+    "raw_quantity": "250g",
+    "expected_status": "mass",
+    "expected_value": "250"
+  },
+  {
+    "source_row": 74,
+    "raw_quantity": "920 g",
+    "expected_status": "mass",
+    "expected_value": "920"
+  },
+  {
+    "source_row": 76,
+    "raw_quantity": "",
+    "expected_status": "missing",
+    "expected_value": null
+  },
+  {
+    "source_row": 95,
+    "raw_quantity": "",
+    "expected_status": "missing",
+    "expected_value": null
+  },
+  {
+    "source_row": 98,
+    "raw_quantity": "100 gummies",
+    "expected_status": "unsupported",
+    "expected_value": null
+  },
+  {
+    "source_row": 102,
+    "raw_quantity": "100g",
+    "expected_status": "mass",
+    "expected_value": "100"
+  },
+  {
+    "source_row": 111,
+    "raw_quantity": "700ml",
+    "expected_status": "volume",
+    "expected_value": "700"
+  },
+  {
+    "source_row": 116,
+    "raw_quantity": "1pcs",
+    "expected_status": "unsupported",
+    "expected_value": null
+  },
+  {
+    "source_row": 119,
+    "raw_quantity": "500g",
+    "expected_status": "mass",
+    "expected_value": "500"
+  },
+  {
+    "source_row": 130,
+    "raw_quantity": "1pcs",
+    "expected_status": "unsupported",
+    "expected_value": null
+  },
+  {
+    "source_row": 148,
+    "raw_quantity": "200g",
+    "expected_status": "mass",
+    "expected_value": "200"
+  },
+  {
+    "source_row": 149,
+    "raw_quantity": "",
+    "expected_status": "missing",
+    "expected_value": null
+  },
+  {
+    "source_row": 153,
+    "raw_quantity": "6 oz",
+    "expected_status": "unsupported",
+    "expected_value": null
+  },
+  {
+    "source_row": 155,
+    "raw_quantity": "100 g",
+    "expected_status": "mass",
+    "expected_value": "100"
+  },
+  {
+    "source_row": 156,
+    "raw_quantity": "180 tablets",
+    "expected_status": "unsupported",
+    "expected_value": null
+  },
+  {
+    "source_row": 158,
+    "raw_quantity": "",
+    "expected_status": "missing",
+    "expected_value": null
+  },
+  {
+    "source_row": 160,
+    "raw_quantity": "500g",
+    "expected_status": "mass",
+    "expected_value": "500"
+  },
+  {
+    "source_row": 161,
+    "raw_quantity": "455 ml",
+    "expected_status": "volume",
+    "expected_value": "455"
+  },
+  {
+    "source_row": 164,
+    "raw_quantity": "",
+    "expected_status": "missing",
+    "expected_value": null
+  },
+  {
+    "source_row": 166,
+    "raw_quantity": "",
+    "expected_status": "missing",
+    "expected_value": null
+  },
+  {
+    "source_row": 171,
+    "raw_quantity": "500g",
+    "expected_status": "mass",
+    "expected_value": "500"
+  },
+  {
+    "source_row": 174,
+    "raw_quantity": "",
+    "expected_status": "missing",
+    "expected_value": null
+  },
+  {
+    "source_row": 175,
+    "raw_quantity": "8",
+    "expected_status": "unsupported",
+    "expected_value": null
+  },
+  {
+    "source_row": 185,
+    "raw_quantity": "125 g",
+    "expected_status": "mass",
+    "expected_value": "125"
+  },
+  {
+    "source_row": 193,
+    "raw_quantity": "",
+    "expected_status": "missing",
+    "expected_value": null
+  },
+  {
+    "source_row": 199,
+    "raw_quantity": "700ml",
+    "expected_status": "volume",
+    "expected_value": "700"
+  },
+  {
+    "source_row": 208,
+    "raw_quantity": "",
+    "expected_status": "missing",
+    "expected_value": null
+  },
+  {
+    "source_row": 232,
+    "raw_quantity": "800 g",
+    "expected_status": "mass",
+    "expected_value": "800"
+  },
+  {
+    "source_row": 235,
+    "raw_quantity": "60",
+    "expected_status": "unsupported",
+    "expected_value": null
+  },
+  {
+    "source_row": 244,
+    "raw_quantity": "100g",
+    "expected_status": "mass",
+    "expected_value": "100"
+  },
+  {
+    "source_row": 252,
+    "raw_quantity": "",
+    "expected_status": "missing",
+    "expected_value": null
+  },
+  {
+    "source_row": 255,
+    "raw_quantity": "",
+    "expected_status": "missing",
+    "expected_value": null
+  },
+  {
+    "source_row": 261,
+    "raw_quantity": "40 g",
+    "expected_status": "mass",
+    "expected_value": "40"
+  },
+  {
+    "source_row": 262,
+    "raw_quantity": "6.03 oz.",
+    "expected_status": "unsupported",
+    "expected_value": null
+  },
+  {
+    "source_row": 265,
+    "raw_quantity": "",
+    "expected_status": "missing",
+    "expected_value": null
+  },
+  {
+    "source_row": 266,
+    "raw_quantity": "450g",
+    "expected_status": "mass",
+    "expected_value": "450"
+  },
+  {
+    "source_row": 269,
+    "raw_quantity": "",
+    "expected_status": "missing",
+    "expected_value": null
+  },
+  {
+    "source_row": 288,
+    "raw_quantity": "700ml",
+    "expected_status": "volume",
+    "expected_value": "700"
+  }
+]

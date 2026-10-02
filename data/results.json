@@ -1,0 +1,32 @@
+{
+  "dataset_rows": 300,
+  "baseline": {
+    "annotation_rows": 50,
+    "normalized": 10,
+    "correct_normalized": 10,
+    "wrong_normalized": 0,
+    "unresolved": 40,
+    "disposition_agreement": 35
+  },
+  "normalizer": {
+    "annotation_rows": 50,
+    "normalized": 25,
+    "correct_normalized": 25,
+    "wrong_normalized": 0,
+    "unresolved": 25,
+    "disposition_agreement": 50
+  },
+  "quantity_status_counts": {
+    "missing": 142,
+    "mass": 82,
+    "volume": 34,
+    "unsupported": 42
+  },
+  "ready_rows": 107,
+  "review_rows": 193,
+  "quantity_diffs": 81,
+  "source_preserved_rows": 300,
+  "processing_ms": 0.86,
+  "source_sha256": "520931fd9a12f568b9b5992496c7ab68a017606e6877cb15dc100c9a435fe1ed",
+  "note": "Single-author rubric agreement on nonrepresentative publisher-order prefix; not packaging/product fact accuracy or measured manual-time savings."
+}

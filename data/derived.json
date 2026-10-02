@@ -1,0 +1,6427 @@
+[
+  {
+    "source_row": 1,
+    "original": {
+      "source_row": 1,
+      "code": "000000000054",
+      "product_name": "Limonade artisanale a la rose",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 2,
+    "original": {
+      "source_row": 2,
+      "code": "000000000063",
+      "product_name": "M&amp;M white",
+      "brands": "Fitpiggy",
+      "quantity": "80 gram"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "80",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "80 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 3,
+    "original": {
+      "source_row": 3,
+      "code": "000000000114",
+      "product_name": "Chocolate n3",
+      "brands": "Jeff de Bruges",
+      "quantity": "80 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "80",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "80 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 4,
+    "original": {
+      "source_row": 4,
+      "code": "000000000431",
+      "product_name": "Pâte de fruits",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 5,
+    "original": {
+      "source_row": 5,
+      "code": "0000000105",
+      "product_name": "Paleta gran reserva - Sierra nevada-",
+      "brands": "AdvoCare",
+      "quantity": "750ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "750",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "750 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 6,
+    "original": {
+      "source_row": 6,
+      "code": "00000002",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 7,
+    "original": {
+      "source_row": 7,
+      "code": "00000003",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 8,
+    "original": {
+      "source_row": 8,
+      "code": "00000004",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 9,
+    "original": {
+      "source_row": 9,
+      "code": "0000000475",
+      "product_name": "Confiture extra citron de Menton",
+      "brands": "",
+      "quantity": "230 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "230",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "230 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 10,
+    "original": {
+      "source_row": 10,
+      "code": "00000005",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 11,
+    "original": {
+      "source_row": 11,
+      "code": "00000006",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 12,
+    "original": {
+      "source_row": 12,
+      "code": "00000006666",
+      "product_name": "6666",
+      "brands": "",
+      "quantity": "1pcs"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 13,
+    "original": {
+      "source_row": 13,
+      "code": "00000007",
+      "product_name": "granola Bio le Chocolaté",
+      "brands": "Mg ricarica",
+      "quantity": "450g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "450",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "450 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 14,
+    "original": {
+      "source_row": 14,
+      "code": "00000008",
+      "product_name": "",
+      "brands": "Zuegg",
+      "quantity": "700ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "700",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "700 mL",
+    "issues": [
+      "Product name missing"
+    ],
+    "status": "review",
+    "changed": true
+  },
+  {
+    "source_row": 15,
+    "original": {
+      "source_row": 15,
+      "code": "00000009",
+      "product_name": "xytitol pastilles",
+      "brands": "xylimgxyling",
+      "quantity": "700ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "700",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "700 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 16,
+    "original": {
+      "source_row": 16,
+      "code": "00000010",
+      "product_name": "xxx",
+      "brands": "xxx",
+      "quantity": "700ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "700",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "700 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 17,
+    "original": {
+      "source_row": 17,
+      "code": "00000011",
+      "product_name": "",
+      "brands": "Kugler, Pyrat",
+      "quantity": "1pcs"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 18,
+    "original": {
+      "source_row": 18,
+      "code": "00000012",
+      "product_name": "Besan chilla with stuffed chciken",
+      "brands": "Toneop",
+      "quantity": "830 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "830",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "830 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 19,
+    "original": {
+      "source_row": 19,
+      "code": "00000013",
+      "product_name": "Powdered peanut butter",
+      "brands": "Pbfit",
+      "quantity": "300 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "300",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "300 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 20,
+    "original": {
+      "source_row": 20,
+      "code": "00000015",
+      "product_name": "Madeleines ChocoLait",
+      "brands": "Apple bandit",
+      "quantity": "1000 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "1000",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "1000 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 21,
+    "original": {
+      "source_row": 21,
+      "code": "00000016",
+      "product_name": "velvety vanilla cake mix",
+      "brands": "betty crocker",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 22,
+    "original": {
+      "source_row": 22,
+      "code": "00000017",
+      "product_name": "Collagen For Her",
+      "brands": "Bodylab",
+      "quantity": "1.0 kg"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "1000",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "1000 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 23,
+    "original": {
+      "source_row": 23,
+      "code": "00000018",
+      "product_name": "Chocolate peanut butter protein",
+      "brands": "Pays Gourmand",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 24,
+    "original": {
+      "source_row": 24,
+      "code": "00000019",
+      "product_name": "Erdbeeren",
+      "brands": "BeerenBrüder",
+      "quantity": "250g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "250",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "250 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 25,
+    "original": {
+      "source_row": 25,
+      "code": "00000020",
+      "product_name": "Nesquik moins de sucre",
+      "brands": "Nestlé",
+      "quantity": "1080 g / 50 madeleines"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 26,
+    "original": {
+      "source_row": 26,
+      "code": "00000021",
+      "product_name": "Inulin Prebiotic Fiber",
+      "brands": "It's Just!",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 27,
+    "original": {
+      "source_row": 27,
+      "code": "00000022",
+      "product_name": "Farandole de madeleine",
+      "brands": "Coca-Cola",
+      "quantity": "590 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "590",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "590 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 28,
+    "original": {
+      "source_row": 28,
+      "code": "00000023",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 29,
+    "original": {
+      "source_row": 29,
+      "code": "00000024",
+      "product_name": "Croccante con pistacchi e miele",
+      "brands": "NUTELLA",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 30,
+    "original": {
+      "source_row": 30,
+      "code": "00000025",
+      "product_name": "Frog Fuel Power Protein",
+      "brands": "Frog Fuel",
+      "quantity": "610 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "610",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "610 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 31,
+    "original": {
+      "source_row": 31,
+      "code": "00000026",
+      "product_name": "The Smartest Cookie",
+      "brands": "People's Choice Beef Jerky",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 32,
+    "original": {
+      "source_row": 32,
+      "code": "00000027",
+      "product_name": "Volle yoghurt",
+      "brands": "Zuivelmeester",
+      "quantity": "700 ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "700",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "700 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 33,
+    "original": {
+      "source_row": 33,
+      "code": "00000028",
+      "product_name": "Hershey’s Syrup",
+      "brands": "Hershey’s",
+      "quantity": "700ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "700",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "700 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 34,
+    "original": {
+      "source_row": 34,
+      "code": "00000029",
+      "product_name": "Anthony's Organic Cocoa Butter Chunks",
+      "brands": "Anthony's",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 35,
+    "original": {
+      "source_row": 35,
+      "code": "00000030",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 36,
+    "original": {
+      "source_row": 36,
+      "code": "00000031",
+      "product_name": "Lindt Vollmilch Schokolade",
+      "brands": "Lindt",
+      "quantity": "100g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "100",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "100 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 37,
+    "original": {
+      "source_row": 37,
+      "code": "00000032",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 38,
+    "original": {
+      "source_row": 38,
+      "code": "00000033",
+      "product_name": "Vegan Protein 3k Chocolate Flavor",
+      "brands": "nu³",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 39,
+    "original": {
+      "source_row": 39,
+      "code": "00000034",
+      "product_name": "Graines de Chia",
+      "brands": "Nestle Carnation",
+      "quantity": "1kg"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "1000",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "1000 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 40,
+    "original": {
+      "source_row": 40,
+      "code": "00000035",
+      "product_name": "Cardiofitmd",
+      "brands": "1MD Nutrition",
+      "quantity": "600 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "600",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "600 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 41,
+    "original": {
+      "source_row": 41,
+      "code": "00000036",
+      "product_name": "Multi Patents Collagen Peptides",
+      "brands": "VEV",
+      "quantity": "490 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "490",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "490 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 42,
+    "original": {
+      "source_row": 42,
+      "code": "00000037",
+      "product_name": "Sea Moss Gummies",
+      "brands": "Just Nutrients",
+      "quantity": "1.5 kg"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "1500",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "1500 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 43,
+    "original": {
+      "source_row": 43,
+      "code": "00000038",
+      "product_name": "Madeleines",
+      "brands": "Bijou",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 44,
+    "original": {
+      "source_row": 44,
+      "code": "00000039",
+      "product_name": "Yerba Mate",
+      "brands": "microingredients",
+      "quantity": "1 kg"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "1000",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "1000 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 45,
+    "original": {
+      "source_row": 45,
+      "code": "00000040",
+      "product_name": "scourban Plus 100 ml",
+      "brands": "Amazing grass",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 46,
+    "original": {
+      "source_row": 46,
+      "code": "00000041",
+      "product_name": "Confiture de Grenade aux fruits secs Rihana",
+      "brands": "Hua Lian Food",
+      "quantity": "250g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "250",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "250 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 47,
+    "original": {
+      "source_row": 47,
+      "code": "00000042",
+      "product_name": "Multivitamins & Minerals",
+      "brands": "Seara",
+      "quantity": "180 comprimés"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 48,
+    "original": {
+      "source_row": 48,
+      "code": "00000043",
+      "product_name": "Butter Burst",
+      "brands": "Herbalife",
+      "quantity": "30 compresse"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 49,
+    "original": {
+      "source_row": 49,
+      "code": "00000044",
+      "product_name": "Mozzarella",
+      "brands": "I formaggi nobili",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 50,
+    "original": {
+      "source_row": 50,
+      "code": "00000045",
+      "product_name": "Gummie",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 51,
+    "original": {
+      "source_row": 51,
+      "code": "00000046",
+      "product_name": "1up",
+      "brands": "Streawberry shortcake",
+      "quantity": "16 oz"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 52,
+    "original": {
+      "source_row": 52,
+      "code": "00000047",
+      "product_name": "Confirure de fruits rouges",
+      "brands": "Nature's Bounty",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 53,
+    "original": {
+      "source_row": 53,
+      "code": "00000048",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 54,
+    "original": {
+      "source_row": 54,
+      "code": "00000049",
+      "product_name": "Mre Lite",
+      "brands": "Redcon1",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 55,
+    "original": {
+      "source_row": 55,
+      "code": "00000050",
+      "product_name": "Thermo complete",
+      "brands": "Bulk Supplements",
+      "quantity": "78,9g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "78.9",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "78.9 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 56,
+    "original": {
+      "source_row": 56,
+      "code": "00000051",
+      "product_name": "Fondants Citron",
+      "brands": "Lindt",
+      "quantity": "660 g (30 étuis individuels)"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 57,
+    "original": {
+      "source_row": 57,
+      "code": "00000052",
+      "product_name": "Organic Erythritol Granulated",
+      "brands": "Weight Watchers",
+      "quantity": "1 kg"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "1000",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "1000 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 58,
+    "original": {
+      "source_row": 58,
+      "code": "00000053",
+      "product_name": "Chunky blue cheese dressing",
+      "brands": "Lighthouse",
+      "quantity": "35 gram"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "35",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "35 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 59,
+    "original": {
+      "source_row": 59,
+      "code": "00000055",
+      "product_name": "Calcium",
+      "brands": "Carbide Forte",
+      "quantity": "660 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "660",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "660 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 60,
+    "original": {
+      "source_row": 60,
+      "code": "00000056",
+      "product_name": "juca",
+      "brands": "piraque",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 61,
+    "original": {
+      "source_row": 61,
+      "code": "00000057",
+      "product_name": "Wonderful pistachios",
+      "brands": "Wonderful",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 62,
+    "original": {
+      "source_row": 62,
+      "code": "00000058",
+      "product_name": "Frosty dishes Econom",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 63,
+    "original": {
+      "source_row": 63,
+      "code": "00000059",
+      "product_name": "Paleo Bar",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 64,
+    "original": {
+      "source_row": 64,
+      "code": "00000060",
+      "product_name": "Rouge bol",
+      "brands": "Poulet rouge",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 65,
+    "original": {
+      "source_row": 65,
+      "code": "00000061",
+      "product_name": "Pâte à tartiner chocolatée sans allergènes",
+      "brands": "KALINER",
+      "quantity": "100"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 66,
+    "original": {
+      "source_row": 66,
+      "code": "00000062",
+      "product_name": "Abricots",
+      "brands": "Kazidomi",
+      "quantity": "250g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "250",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "250 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 67,
+    "original": {
+      "source_row": 67,
+      "code": "00000063",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 68,
+    "original": {
+      "source_row": 68,
+      "code": "00000064",
+      "product_name": "Organic hemp seeds",
+      "brands": "Sevenhills",
+      "quantity": "1kg"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "1000",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "1000 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 69,
+    "original": {
+      "source_row": 69,
+      "code": "00000065",
+      "product_name": "",
+      "brands": "vegavero",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 70,
+    "original": {
+      "source_row": 70,
+      "code": "00000066",
+      "product_name": "",
+      "brands": "",
+      "quantity": "500 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "500",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "500 g",
+    "issues": [
+      "Product name missing"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 71,
+    "original": {
+      "source_row": 71,
+      "code": "00000067",
+      "product_name": "",
+      "brands": "vitamaze",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 72,
+    "original": {
+      "source_row": 72,
+      "code": "00000068",
+      "product_name": "",
+      "brands": "Terra Delyssa",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 73,
+    "original": {
+      "source_row": 73,
+      "code": "00000069",
+      "product_name": "",
+      "brands": "florette",
+      "quantity": "100 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "100",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "100 g",
+    "issues": [
+      "Product name missing"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 74,
+    "original": {
+      "source_row": 74,
+      "code": "00000070",
+      "product_name": "genoise chocolat bijou",
+      "brands": "Bijou",
+      "quantity": "920 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "920",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "920 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 75,
+    "original": {
+      "source_row": 75,
+      "code": "00000071",
+      "product_name": "Baharat",
+      "brands": "Achterhof, Nutri-Plus",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 76,
+    "original": {
+      "source_row": 76,
+      "code": "00000072",
+      "product_name": "Protien iced tea",
+      "brands": "Chike",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 77,
+    "original": {
+      "source_row": 77,
+      "code": "00000073",
+      "product_name": "Whopper",
+      "brands": "nutra vita",
+      "quantity": "240 sift gels"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 78,
+    "original": {
+      "source_row": 78,
+      "code": "00000074",
+      "product_name": "Chlorure de magnésium (nigari)",
+      "brands": "Nature et partage",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 79,
+    "original": {
+      "source_row": 79,
+      "code": "00000075",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 80,
+    "original": {
+      "source_row": 80,
+      "code": "00000076",
+      "product_name": "Gammon steaks",
+      "brands": "Tesco",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 81,
+    "original": {
+      "source_row": 81,
+      "code": "00000077",
+      "product_name": "",
+      "brands": "Oats overnight",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 82,
+    "original": {
+      "source_row": 82,
+      "code": "00000078",
+      "product_name": "Whey Protein Isolate",
+      "brands": "NOW SPORTS",
+      "quantity": "2268 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "2268",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "2268 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 83,
+    "original": {
+      "source_row": 83,
+      "code": "00000079",
+      "product_name": "Vitamine C poudre",
+      "brands": "Nutrivita",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 84,
+    "original": {
+      "source_row": 84,
+      "code": "00000080",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 85,
+    "original": {
+      "source_row": 85,
+      "code": "00000081",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 86,
+    "original": {
+      "source_row": 86,
+      "code": "00000082",
+      "product_name": "",
+      "brands": "",
+      "quantity": "400 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "400",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "400 g",
+    "issues": [
+      "Product name missing"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 87,
+    "original": {
+      "source_row": 87,
+      "code": "00000083",
+      "product_name": "Xanthan gum",
+      "brands": "foodtastic nature",
+      "quantity": "1 kg"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "1000",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "1000 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 88,
+    "original": {
+      "source_row": 88,
+      "code": "00000084",
+      "product_name": "Wheat Bread",
+      "brands": "OvenJoy",
+      "quantity": "500 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "500",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "500 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 89,
+    "original": {
+      "source_row": 89,
+      "code": "00000085",
+      "product_name": "Alimento",
+      "brands": "Ocean Spray",
+      "quantity": "30 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "30",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "30 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 90,
+    "original": {
+      "source_row": 90,
+      "code": "00000086",
+      "product_name": "Vegan protein powder",
+      "brands": "Be amazing",
+      "quantity": "250 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "250",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "250 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 91,
+    "original": {
+      "source_row": 91,
+      "code": "00000087",
+      "product_name": "leite egua",
+      "brands": "piraque",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 92,
+    "original": {
+      "source_row": 92,
+      "code": "00000088",
+      "product_name": "Poulet entier noir \"le 88 jours\"",
+      "brands": "Le Picoreur",
+      "quantity": "1.2-2.1 kg"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 93,
+    "original": {
+      "source_row": 93,
+      "code": "00000089",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 94,
+    "original": {
+      "source_row": 94,
+      "code": "00000090",
+      "product_name": "Fruchtfliegen-Falle, Obstfliegenfalle und Essigfliegenfalle",
+      "brands": "Lidl",
+      "quantity": "80 gram"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "80",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "80 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 95,
+    "original": {
+      "source_row": 95,
+      "code": "00000091",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 96,
+    "original": {
+      "source_row": 96,
+      "code": "00000093",
+      "product_name": "Organic Cacao Powder",
+      "brands": "Sevenhills Wholefoods",
+      "quantity": "2 kilos"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 97,
+    "original": {
+      "source_row": 97,
+      "code": "00000094",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 98,
+    "original": {
+      "source_row": 98,
+      "code": "00000095",
+      "product_name": "Chopped spinach",
+      "brands": "Birds eye",
+      "quantity": "100 gummies"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 99,
+    "original": {
+      "source_row": 99,
+      "code": "00000096",
+      "product_name": "Protein Bar",
+      "brands": "One",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 100,
+    "original": {
+      "source_row": 100,
+      "code": "00000097",
+      "product_name": "example",
+      "brands": "exem",
+      "quantity": "12 pound"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 101,
+    "original": {
+      "source_row": 101,
+      "code": "00000099",
+      "product_name": "coffee",
+      "brands": "Sunergetic",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 102,
+    "original": {
+      "source_row": 102,
+      "code": "00000100",
+      "product_name": "",
+      "brands": "Healthy Home",
+      "quantity": "100g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "100",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "100 g",
+    "issues": [
+      "Product name missing"
+    ],
+    "status": "review",
+    "changed": true
+  },
+  {
+    "source_row": 103,
+    "original": {
+      "source_row": 103,
+      "code": "00000101",
+      "product_name": "Vegan plus sostituto del pasto",
+      "brands": "NuNaturals, Weinaperitif",
+      "quantity": "750ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "750",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "750 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 104,
+    "original": {
+      "source_row": 104,
+      "code": "00000102",
+      "product_name": "Snep plus",
+      "brands": "Nordischer Roter Glühwein, Origeens, Triple Sec/Curacao",
+      "quantity": "750ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "750",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "750 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 105,
+    "original": {
+      "source_row": 105,
+      "code": "00000103",
+      "product_name": "children's dha",
+      "brands": "Wah Seng Vit4Ever",
+      "quantity": "250 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "250",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "250 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 106,
+    "original": {
+      "source_row": 106,
+      "code": "00000104",
+      "product_name": "30 Panach' Fruits",
+      "brands": "Bijou, Nordischer Roter Glühwein",
+      "quantity": "750ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "750",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "750 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 107,
+    "original": {
+      "source_row": 107,
+      "code": "00000106",
+      "product_name": "Snep vegan plus",
+      "brands": "Triple Sec/Curacao",
+      "quantity": "500ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "500",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "500 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 108,
+    "original": {
+      "source_row": 108,
+      "code": "00000107",
+      "product_name": "Figues séchées",
+      "brands": "Biojoy, Weinaperitif",
+      "quantity": "750ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "750",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "750 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 109,
+    "original": {
+      "source_row": 109,
+      "code": "00000108",
+      "product_name": "BP-ER",
+      "brands": "Edelbrand, Wellgard",
+      "quantity": "700ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "700",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "700 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 110,
+    "original": {
+      "source_row": 110,
+      "code": "00000109",
+      "product_name": "Vegan 3k proetin",
+      "brands": "Nutri",
+      "quantity": "1000ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "1000",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "1000 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 111,
+    "original": {
+      "source_row": 111,
+      "code": "00000110",
+      "product_name": "",
+      "brands": "O Naturals, Zuckerrohr Schnaps",
+      "quantity": "700ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "700",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "700 mL",
+    "issues": [
+      "Product name missing"
+    ],
+    "status": "review",
+    "changed": true
+  },
+  {
+    "source_row": 112,
+    "original": {
+      "source_row": 112,
+      "code": "00000111",
+      "product_name": "Vegan plus",
+      "brands": "NaturElan",
+      "quantity": "1000ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "1000",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "1000 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 113,
+    "original": {
+      "source_row": 113,
+      "code": "00000112",
+      "product_name": "Plus",
+      "brands": "Likör, SNEP",
+      "quantity": "700ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "700",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "700 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 114,
+    "original": {
+      "source_row": 114,
+      "code": "00000113",
+      "product_name": "Protein pudding mousse au chocolat",
+      "brands": "Nutri, Weingeist",
+      "quantity": "700ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "700",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "700 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 115,
+    "original": {
+      "source_row": 115,
+      "code": "00000115",
+      "product_name": "Nectar de cerise",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 116,
+    "original": {
+      "source_row": 116,
+      "code": "00000116",
+      "product_name": "Vanille-Erdbeer-Cocktail",
+      "brands": "Bofrost",
+      "quantity": "1pcs"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 117,
+    "original": {
+      "source_row": 117,
+      "code": "00000117",
+      "product_name": "Whey protei",
+      "brands": "Bodylab",
+      "quantity": "2000 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "2000",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "2000 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 118,
+    "original": {
+      "source_row": 118,
+      "code": "00000118",
+      "product_name": "Whey Protein 2000g",
+      "brands": "Bodylab",
+      "quantity": "2.0 kg"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "2000",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "2000 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 119,
+    "original": {
+      "source_row": 119,
+      "code": "00000119",
+      "product_name": "Bio Flohsamenschalen gemahlen",
+      "brands": "Deto Organica, Nu U Nutrition",
+      "quantity": "500g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "500",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "500 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 120,
+    "original": {
+      "source_row": 120,
+      "code": "00000120",
+      "product_name": "Probiotic",
+      "brands": "Yuve",
+      "quantity": "25x3ml"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 121,
+    "original": {
+      "source_row": 121,
+      "code": "00000121",
+      "product_name": "Graine de courge",
+      "brands": "Veggy duck",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 122,
+    "original": {
+      "source_row": 122,
+      "code": "00000122",
+      "product_name": "High protein iced coffee  latte macchiato",
+      "brands": "Herbalife",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 123,
+    "original": {
+      "source_row": 123,
+      "code": "00000123",
+      "product_name": "Sauce Sweety chili 0%",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 124,
+    "original": {
+      "source_row": 124,
+      "code": "00000124",
+      "product_name": "Maté Yerba mate",
+      "brands": "Origeens",
+      "quantity": "1 kg"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "1000",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "1000 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 125,
+    "original": {
+      "source_row": 125,
+      "code": "00000125",
+      "product_name": "Calcium Magnesium Zinc",
+      "brands": "WeightWorld",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 126,
+    "original": {
+      "source_row": 126,
+      "code": "00000126",
+      "product_name": "huile de coco désodorisee",
+      "brands": "Conso nature",
+      "quantity": "1l"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "1000",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "1000 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 127,
+    "original": {
+      "source_row": 127,
+      "code": "00000127",
+      "product_name": "Whey Protein - Chocolate",
+      "brands": "Bodylab",
+      "quantity": "90 capsules"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 128,
+    "original": {
+      "source_row": 128,
+      "code": "00000128",
+      "product_name": "Il caffè del benessere",
+      "brands": "Evo nutrition & health Ltd.",
+      "quantity": "365 tablets"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 129,
+    "original": {
+      "source_row": 129,
+      "code": "00000129",
+      "product_name": "Caramel au beurre salé",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 130,
+    "original": {
+      "source_row": 130,
+      "code": "00000130",
+      "product_name": "Schweinebauch mit knoblauch",
+      "brands": "Lackmann",
+      "quantity": "1pcs"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 131,
+    "original": {
+      "source_row": 131,
+      "code": "00000131",
+      "product_name": "Confiture de fraise mara des bois",
+      "brands": "Lakanto",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 132,
+    "original": {
+      "source_row": 132,
+      "code": "00000133",
+      "product_name": "Realfibre",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 133,
+    "original": {
+      "source_row": 133,
+      "code": "00000134",
+      "product_name": "Erythritol",
+      "brands": "Castello, EWL Naturprodukte",
+      "quantity": "5kg"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "5000",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "5000 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 134,
+    "original": {
+      "source_row": 134,
+      "code": "00000135",
+      "product_name": "Veganes Protein Schoko",
+      "brands": "Volksshake",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 135,
+    "original": {
+      "source_row": 135,
+      "code": "00000136",
+      "product_name": "Milk away protein",
+      "brands": "Nutri+",
+      "quantity": "500.0 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "500",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "500 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 136,
+    "original": {
+      "source_row": 136,
+      "code": "00000137",
+      "product_name": "Peanut Brittle",
+      "brands": "Berrymans",
+      "quantity": "490g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "490",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "490 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 137,
+    "original": {
+      "source_row": 137,
+      "code": "00000138",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 138,
+    "original": {
+      "source_row": 138,
+      "code": "00000139",
+      "product_name": "Reisprotein",
+      "brands": "Achterhof",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 139,
+    "original": {
+      "source_row": 139,
+      "code": "00000140",
+      "product_name": "tisane saveur lunaire",
+      "brands": "Nescafe",
+      "quantity": "50 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "50",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "50 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 140,
+    "original": {
+      "source_row": 140,
+      "code": "00000141",
+      "product_name": "EnergyDiet. Soupe Thai",
+      "brands": "Your Super",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 141,
+    "original": {
+      "source_row": 141,
+      "code": "00000142",
+      "product_name": "EarthCamp Vegan Protein Powder",
+      "brands": "Wyldsson",
+      "quantity": "199g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "199",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "199 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 142,
+    "original": {
+      "source_row": 142,
+      "code": "00000143",
+      "product_name": "Vegan mix - zuppa toscana",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 143,
+    "original": {
+      "source_row": 143,
+      "code": "00000144",
+      "product_name": "Bio Whey Isolat",
+      "brands": "Alpenpower",
+      "quantity": "1 kg"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "1000",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "1000 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 144,
+    "original": {
+      "source_row": 144,
+      "code": "00000145",
+      "product_name": "MK Gold Bread Mix",
+      "brands": "MK Nutrition",
+      "quantity": "600 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "600",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "600 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 145,
+    "original": {
+      "source_row": 145,
+      "code": "00000146",
+      "product_name": "Batido nutricional / Nutricional Shake",
+      "brands": "Herbalife",
+      "quantity": "550g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "550",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "550 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 146,
+    "original": {
+      "source_row": 146,
+      "code": "00000147",
+      "product_name": "Pan",
+      "brands": "Kazidomi",
+      "quantity": "500g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "500",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "500 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 147,
+    "original": {
+      "source_row": 147,
+      "code": "00000148",
+      "product_name": "Brewer’s Yeast Powder",
+      "brands": "Mommy Knows Best",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 148,
+    "original": {
+      "source_row": 148,
+      "code": "00000149",
+      "product_name": "Nutri+ vegan 3k Proteinpulver",
+      "brands": "Nutri+",
+      "quantity": "200g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "200",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "200 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 149,
+    "original": {
+      "source_row": 149,
+      "code": "00000150",
+      "product_name": "Collagenpulver",
+      "brands": "Glow25",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 150,
+    "original": {
+      "source_row": 150,
+      "code": "00000151",
+      "product_name": "Zinc",
+      "brands": "Edubily",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 151,
+    "original": {
+      "source_row": 151,
+      "code": "00000152",
+      "product_name": "Pure Creatine Monohydrate",
+      "brands": "German Elite Nutrition",
+      "quantity": "850g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "850",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "850 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 152,
+    "original": {
+      "source_row": 152,
+      "code": "00000153",
+      "product_name": "Abdo slim",
+      "brands": "Eric favre",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 153,
+    "original": {
+      "source_row": 153,
+      "code": "00000154",
+      "product_name": "Mct Oil Powder",
+      "brands": "Opportuniteas",
+      "quantity": "6 oz"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 154,
+    "original": {
+      "source_row": 154,
+      "code": "00000155",
+      "product_name": "Kakao Nibs",
+      "brands": "Sevenhills Wholefoods",
+      "quantity": "2000g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "2000",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "2000 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 155,
+    "original": {
+      "source_row": 155,
+      "code": "00000156",
+      "product_name": "Soja Protein",
+      "brands": "Alphatier",
+      "quantity": "100 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "100",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "100 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 156,
+    "original": {
+      "source_row": 156,
+      "code": "00000157",
+      "product_name": "Matcha Tè Verde Giapponese",
+      "brands": "NaturaleBio",
+      "quantity": "180 tablets"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 157,
+    "original": {
+      "source_row": 157,
+      "code": "00000158",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 158,
+    "original": {
+      "source_row": 158,
+      "code": "00000159",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 159,
+    "original": {
+      "source_row": 159,
+      "code": "00000160",
+      "product_name": "Everything but  bagel seasoning",
+      "brands": "Trader joe,Trader Joe’s",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 160,
+    "original": {
+      "source_row": 160,
+      "code": "00000161",
+      "product_name": "Bio Volleipulver",
+      "brands": "Bodylab",
+      "quantity": "500g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "500",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "500 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 161,
+    "original": {
+      "source_row": 161,
+      "code": "00000162",
+      "product_name": "",
+      "brands": "Flying Goose Brand",
+      "quantity": "455 ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "455",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "455 mL",
+    "issues": [
+      "Product name missing"
+    ],
+    "status": "review",
+    "changed": true
+  },
+  {
+    "source_row": 162,
+    "original": {
+      "source_row": 162,
+      "code": "00000164",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 163,
+    "original": {
+      "source_row": 163,
+      "code": "00000165",
+      "product_name": "Paradies creme nougat",
+      "brands": "Dr. Oetker",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 164,
+    "original": {
+      "source_row": 164,
+      "code": "00000166",
+      "product_name": "Skinny juice",
+      "brands": "Cute nutrition",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 165,
+    "original": {
+      "source_row": 165,
+      "code": "00000167",
+      "product_name": "Vegan Protein (Forest Fruit Flavoured)",
+      "brands": "BioTechUSA",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 166,
+    "original": {
+      "source_row": 166,
+      "code": "00000168",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 167,
+    "original": {
+      "source_row": 167,
+      "code": "00000169",
+      "product_name": "herbalife boisson instantanée thé",
+      "brands": "herbalife",
+      "quantity": "51gr"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "51",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "51 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 168,
+    "original": {
+      "source_row": 168,
+      "code": "00000170",
+      "product_name": "Докторская классик",
+      "brands": "",
+      "quantity": "1pcs"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 169,
+    "original": {
+      "source_row": 169,
+      "code": "00000171",
+      "product_name": "Vitamin B12",
+      "brands": "Alpha Vitalis",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 170,
+    "original": {
+      "source_row": 170,
+      "code": "00000172",
+      "product_name": "mélange vegan pour boisson proteinee",
+      "brands": "Herbalife nutrition",
+      "quantity": "560 gr"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "560",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "560 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 171,
+    "original": {
+      "source_row": 171,
+      "code": "00000173",
+      "product_name": "BIO CHLORELLA",
+      "brands": "BIOTIVA",
+      "quantity": "500g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "500",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "500 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 172,
+    "original": {
+      "source_row": 172,
+      "code": "00000174",
+      "product_name": "",
+      "brands": "",
+      "quantity": "900 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "900",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "900 g",
+    "issues": [
+      "Product name missing"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 173,
+    "original": {
+      "source_row": 173,
+      "code": "00000175",
+      "product_name": "Collagen Peptides",
+      "brands": "Whole Foods",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 174,
+    "original": {
+      "source_row": 174,
+      "code": "00000176",
+      "product_name": "X50  Green tea + Resveratrol",
+      "brands": "X50",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 175,
+    "original": {
+      "source_row": 175,
+      "code": "00000177",
+      "product_name": "Bio Gerstengras Pulver",
+      "brands": "Flügelschwinger",
+      "quantity": "8"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 176,
+    "original": {
+      "source_row": 176,
+      "code": "00000178",
+      "product_name": "Dattes Mejdoul",
+      "brands": "Kazidomi",
+      "quantity": "500g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "500",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "500 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 177,
+    "original": {
+      "source_row": 177,
+      "code": "00000179",
+      "product_name": "Instant Clear Jel Powder",
+      "brands": "Hoosier Hills Farm",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 178,
+    "original": {
+      "source_row": 178,
+      "code": "00000180",
+      "product_name": "WHEY Gold Standard",
+      "brands": "Lackmann, Optimum Nutrition",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 179,
+    "original": {
+      "source_row": 179,
+      "code": "00000181",
+      "product_name": "Shaved ice cherry",
+      "brands": "Hawaiian shaved ice",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 180,
+    "original": {
+      "source_row": 180,
+      "code": "00000182",
+      "product_name": "vitamina c& zink",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 181,
+    "original": {
+      "source_row": 181,
+      "code": "00000183",
+      "product_name": "Chaga Tea",
+      "brands": "Lake Baikal",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 182,
+    "original": {
+      "source_row": 182,
+      "code": "00000184",
+      "product_name": "Melody",
+      "brands": "Optimum Nutrition",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 183,
+    "original": {
+      "source_row": 183,
+      "code": "00000186",
+      "product_name": "Yaourt au chocolat",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 184,
+    "original": {
+      "source_row": 184,
+      "code": "00000187",
+      "product_name": "Popcorn, Baby White",
+      "brands": "Amish Country",
+      "quantity": "300ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "300",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "300 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 185,
+    "original": {
+      "source_row": 185,
+      "code": "00000188",
+      "product_name": "Sablé aux pépites de chocolat",
+      "brands": "",
+      "quantity": "125 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "125",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "125 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 186,
+    "original": {
+      "source_row": 186,
+      "code": "00000189",
+      "product_name": "Vegan Protein Mango",
+      "brands": "Alpha Foods",
+      "quantity": "1pcs"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 187,
+    "original": {
+      "source_row": 187,
+      "code": "00000190",
+      "product_name": "AM & PM",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 188,
+    "original": {
+      "source_row": 188,
+      "code": "00000191",
+      "product_name": "Mix fruits rojos",
+      "brands": "Zitromac",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 189,
+    "original": {
+      "source_row": 189,
+      "code": "00000192",
+      "product_name": "Planin",
+      "brands": "levadura madre",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 190,
+    "original": {
+      "source_row": 190,
+      "code": "00000193",
+      "product_name": "Veganes Protein Vanille",
+      "brands": "volksshake",
+      "quantity": "250g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "250",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "250 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 191,
+    "original": {
+      "source_row": 191,
+      "code": "00000194",
+      "product_name": "Bio Walnusskerne Achtel kerne",
+      "brands": "Biojoy",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 192,
+    "original": {
+      "source_row": 192,
+      "code": "00000195",
+      "product_name": "",
+      "brands": "Pro Fuel",
+      "quantity": "480"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 193,
+    "original": {
+      "source_row": 193,
+      "code": "00000197",
+      "product_name": "",
+      "brands": "Bodylab",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 194,
+    "original": {
+      "source_row": 194,
+      "code": "00000198",
+      "product_name": "ChocoMoon",
+      "brands": "Uno",
+      "quantity": "205"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 195,
+    "original": {
+      "source_row": 195,
+      "code": "00000199",
+      "product_name": "Dibs Crunch Ice Cream Bits",
+      "brands": "Nestlé",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 196,
+    "original": {
+      "source_row": 196,
+      "code": "00000200",
+      "product_name": "Bitter Raw Apricot Seeds",
+      "brands": "Miracle Farming",
+      "quantity": "200g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "200",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "200 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 197,
+    "original": {
+      "source_row": 197,
+      "code": "00000201",
+      "product_name": "Buttermilk pancake & waffle mix",
+      "brands": "Bjorg, Rum dunkel",
+      "quantity": "1000ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "1000",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "1000 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 198,
+    "original": {
+      "source_row": 198,
+      "code": "00000202",
+      "product_name": "VEGAN BRAIN + BODY BOOST",
+      "brands": "Rum dunkel, Vegan Brain Food",
+      "quantity": "700ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "700",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "700 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 199,
+    "original": {
+      "source_row": 199,
+      "code": "00000203",
+      "product_name": "Powdered peanut butter - PB2",
+      "brands": "Rum dunkel",
+      "quantity": "700ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "700",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "700 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 200,
+    "original": {
+      "source_row": 200,
+      "code": "00000204",
+      "product_name": "Bumbu XO",
+      "brands": "Rum dunkel",
+      "quantity": "700ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "700",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "700 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 201,
+    "original": {
+      "source_row": 201,
+      "code": "00000205",
+      "product_name": "Canard à l’orange",
+      "brands": "Bofrost, Rum dunkel",
+      "quantity": "700ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "700",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "700 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 202,
+    "original": {
+      "source_row": 202,
+      "code": "00000206",
+      "product_name": "Feta Danish import",
+      "brands": "Imported, Rum dunkel",
+      "quantity": "700ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "700",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "700 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 203,
+    "original": {
+      "source_row": 203,
+      "code": "00000207",
+      "product_name": "Pickle pork chips",
+      "brands": "Rum dunkel",
+      "quantity": "700ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "700",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "700 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 204,
+    "original": {
+      "source_row": 204,
+      "code": "00000208",
+      "product_name": "Pistou d'ail des ours",
+      "brands": "Incorrect bar code for product",
+      "quantity": "700ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "700",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "700 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 205,
+    "original": {
+      "source_row": 205,
+      "code": "00000209",
+      "product_name": "Whey Protein",
+      "brands": "Bulk Supplements",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 206,
+    "original": {
+      "source_row": 206,
+      "code": "00000210",
+      "product_name": "Kalogel",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 207,
+    "original": {
+      "source_row": 207,
+      "code": "00000212",
+      "product_name": "yaourt vanille sucré",
+      "brands": "aucune",
+      "quantity": "125 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "125",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "125 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 208,
+    "original": {
+      "source_row": 208,
+      "code": "00000213",
+      "product_name": "PROTEIN PANCAKE",
+      "brands": "WEIDER",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 209,
+    "original": {
+      "source_row": 209,
+      "code": "00000214",
+      "product_name": "zinc amazom",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 210,
+    "original": {
+      "source_row": 210,
+      "code": "00000215",
+      "product_name": "Riso rosso",
+      "brands": "Scotti",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 211,
+    "original": {
+      "source_row": 211,
+      "code": "00000217",
+      "product_name": "Erbsen",
+      "brands": "",
+      "quantity": "140g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "140",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "140 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 212,
+    "original": {
+      "source_row": 212,
+      "code": "00000219",
+      "product_name": "Cordy-C",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 213,
+    "original": {
+      "source_row": 213,
+      "code": "00000220",
+      "product_name": "ORGANIC GINGER POWDER",
+      "brands": "Micro ingredients",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 214,
+    "original": {
+      "source_row": 214,
+      "code": "00000221",
+      "product_name": "Organic Ceremonial Matcha Green Tea Powder",
+      "brands": "Jade Leaf",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 215,
+    "original": {
+      "source_row": 215,
+      "code": "00000222",
+      "product_name": "Ultimate Daily Greens",
+      "brands": "North Coast Naturals",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 216,
+    "original": {
+      "source_row": 216,
+      "code": "00000223",
+      "product_name": "Arran",
+      "brands": "Isagenix",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 217,
+    "original": {
+      "source_row": 217,
+      "code": "00000224",
+      "product_name": "madeleine Bijou ChocoPépites",
+      "brands": "Bijou",
+      "quantity": "20"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 218,
+    "original": {
+      "source_row": 218,
+      "code": "00000225",
+      "product_name": "bijou cacao",
+      "brands": "bijou",
+      "quantity": "660g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "660",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "660 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 219,
+    "original": {
+      "source_row": 219,
+      "code": "00000226",
+      "product_name": "Naturelo",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 220,
+    "original": {
+      "source_row": 220,
+      "code": "00000227",
+      "product_name": "Bijou Caramel ChocoLait",
+      "brands": "Bijou",
+      "quantity": "740 g (20 étuis individuels)"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 221,
+    "original": {
+      "source_row": 221,
+      "code": "00000228",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 222,
+    "original": {
+      "source_row": 222,
+      "code": "00000229",
+      "product_name": "Vanilla Grass-fed Whey Protein Isolate",
+      "brands": "Opportuniteas",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 223,
+    "original": {
+      "source_row": 223,
+      "code": "00000230",
+      "product_name": "Greens",
+      "brands": "Pure GPS, lack",
+      "quantity": "g"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 224,
+    "original": {
+      "source_row": 224,
+      "code": "00000231",
+      "product_name": "Bramwells American Style Peanut Butter",
+      "brands": "Herbalife Nutrition",
+      "quantity": "739 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "739",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "739 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 225,
+    "original": {
+      "source_row": 225,
+      "code": "00000232",
+      "product_name": "Usda Organic Matcha Latte",
+      "brands": "Jade Leaf",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 226,
+    "original": {
+      "source_row": 226,
+      "code": "00000233",
+      "product_name": "That’s It",
+      "brands": "That’s It",
+      "quantity": "8.5g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "8.5",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "8.5 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 227,
+    "original": {
+      "source_row": 227,
+      "code": "00000234",
+      "product_name": "",
+      "brands": "Tartalia",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 228,
+    "original": {
+      "source_row": 228,
+      "code": "00000235",
+      "product_name": "Spaghettis aux scampi",
+      "brands": "Shape&go",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 229,
+    "original": {
+      "source_row": 229,
+      "code": "00000236",
+      "product_name": "lamotarde",
+      "brands": "",
+      "quantity": "38"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 230,
+    "original": {
+      "source_row": 230,
+      "code": "00000237",
+      "product_name": "Whey Protein - Mutan Mass",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 231,
+    "original": {
+      "source_row": 231,
+      "code": "00000238",
+      "product_name": "Framboise",
+      "brands": "Foothills Naturals",
+      "quantity": "454g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "454",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "454 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 232,
+    "original": {
+      "source_row": 232,
+      "code": "00000239",
+      "product_name": "Bun's",
+      "brands": "",
+      "quantity": "800 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "800",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "800 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 233,
+    "original": {
+      "source_row": 233,
+      "code": "00000240",
+      "product_name": "Saint Moret",
+      "brands": "lack",
+      "quantity": "g"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 234,
+    "original": {
+      "source_row": 234,
+      "code": "00000242",
+      "product_name": "Protein powder",
+      "brands": "Herbalife",
+      "quantity": "240 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "240",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "240 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 235,
+    "original": {
+      "source_row": 235,
+      "code": "00000244",
+      "product_name": "RhinAllergy kids boiron",
+      "brands": "Boiron",
+      "quantity": "60"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 236,
+    "original": {
+      "source_row": 236,
+      "code": "00000245",
+      "product_name": "Psyllium husk powder",
+      "brands": "It’s just",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 237,
+    "original": {
+      "source_row": 237,
+      "code": "00000246",
+      "product_name": "Proteína Powder",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 238,
+    "original": {
+      "source_row": 238,
+      "code": "00000247",
+      "product_name": "Clean Vegan BCAA + Electrolytes Peach Mango",
+      "brands": "Type Zero",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 239,
+    "original": {
+      "source_row": 239,
+      "code": "00000249",
+      "product_name": "Herbal Laxative Tabs",
+      "brands": "Swiss Kriss",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 240,
+    "original": {
+      "source_row": 240,
+      "code": "00000250",
+      "product_name": "Whole Grain Rye Flour",
+      "brands": "Organic Anita’s Mill",
+      "quantity": "1pcs"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 241,
+    "original": {
+      "source_row": 241,
+      "code": "00000251",
+      "product_name": "Coq10 200mg",
+      "brands": "Zebora",
+      "quantity": "100g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "100",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "100 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 242,
+    "original": {
+      "source_row": 242,
+      "code": "00000252",
+      "product_name": "7-1 immunity support",
+      "brands": "Mary Ruth’s",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 243,
+    "original": {
+      "source_row": 243,
+      "code": "00000253",
+      "product_name": "Matcha Latte",
+      "brands": "Jade Leaf",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 244,
+    "original": {
+      "source_row": 244,
+      "code": "00000254",
+      "product_name": "Infusion thé",
+      "brands": "",
+      "quantity": "100g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "100",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "100 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 245,
+    "original": {
+      "source_row": 245,
+      "code": "00000255",
+      "product_name": "Organic Gunpowder Green Tea",
+      "brands": "From Great Origins",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 246,
+    "original": {
+      "source_row": 246,
+      "code": "00000258",
+      "product_name": "Protein Bar, Almond and Chocolate",
+      "brands": "live conscious",
+      "quantity": "490 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "490",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "490 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 247,
+    "original": {
+      "source_row": 247,
+      "code": "00000259",
+      "product_name": "Barrette cioccolato e arachidi 1 barretta 35g.",
+      "brands": "Herbalife",
+      "quantity": "490 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "490",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "490 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 248,
+    "original": {
+      "source_row": 248,
+      "code": "00000260",
+      "product_name": "Barritas con proteínas",
+      "brands": "Herbalife",
+      "quantity": "14 x 35 g"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 249,
+    "original": {
+      "source_row": 249,
+      "code": "00000261",
+      "product_name": "Prebiotic Fiber Gummies",
+      "brands": "Lifeable Kids",
+      "quantity": "90 count"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 250,
+    "original": {
+      "source_row": 250,
+      "code": "00000262",
+      "product_name": "Confiture de lait",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 251,
+    "original": {
+      "source_row": 251,
+      "code": "00000263",
+      "product_name": "Extreme mass gainer",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 252,
+    "original": {
+      "source_row": 252,
+      "code": "00000264",
+      "product_name": "corn bread",
+      "brands": "Bofrost",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 253,
+    "original": {
+      "source_row": 253,
+      "code": "00000266",
+      "product_name": "",
+      "brands": "",
+      "quantity": "11 oz"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 254,
+    "original": {
+      "source_row": 254,
+      "code": "00000267",
+      "product_name": "",
+      "brands": "Herbalife",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 255,
+    "original": {
+      "source_row": 255,
+      "code": "00000268",
+      "product_name": "Whey Protein Isolate",
+      "brands": "Thorne",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 256,
+    "original": {
+      "source_row": 256,
+      "code": "00000269",
+      "product_name": "Bulletproof collagen peptides",
+      "brands": "Bulletproof",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 257,
+    "original": {
+      "source_row": 257,
+      "code": "00000270",
+      "product_name": "Zucchini Stücke",
+      "brands": "",
+      "quantity": "270g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "270",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "270 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 258,
+    "original": {
+      "source_row": 258,
+      "code": "00000271",
+      "product_name": "Bilberry Powder",
+      "brands": ".Nordic Nordic",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 259,
+    "original": {
+      "source_row": 259,
+      "code": "00000272",
+      "product_name": "Spaghetti Proteici",
+      "brands": "Shape&go",
+      "quantity": "1000 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "1000",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "1000 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 260,
+    "original": {
+      "source_row": 260,
+      "code": "00000273",
+      "product_name": "Superfruit Organic Freezie Pops",
+      "brands": "DeeBee's Organics",
+      "quantity": "24 oz"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 261,
+    "original": {
+      "source_row": 261,
+      "code": "00000274",
+      "product_name": "Protine",
+      "brands": "Redcon1",
+      "quantity": "40 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "40",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "40 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 262,
+    "original": {
+      "source_row": 262,
+      "code": "00000275",
+      "product_name": "Protine",
+      "brands": "JACKED FACTORY",
+      "quantity": "6.03 oz."
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 263,
+    "original": {
+      "source_row": 263,
+      "code": "00000276",
+      "product_name": "Protine al Barbeque",
+      "brands": "Yuve",
+      "quantity": "40 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "40",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "40 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 264,
+    "original": {
+      "source_row": 264,
+      "code": "00000277",
+      "product_name": "Protine al formaggio",
+      "brands": "Micro ingredients",
+      "quantity": "40 g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "40",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "40 g",
+    "issues": [],
+    "status": "ready",
+    "changed": false
+  },
+  {
+    "source_row": 265,
+    "original": {
+      "source_row": 265,
+      "code": "00000279",
+      "product_name": "Choco break",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 266,
+    "original": {
+      "source_row": 266,
+      "code": "00000281",
+      "product_name": "dreamtime",
+      "brands": "whittard",
+      "quantity": "450g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "450",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "450 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 267,
+    "original": {
+      "source_row": 267,
+      "code": "00000282",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 268,
+    "original": {
+      "source_row": 268,
+      "code": "00000283",
+      "product_name": "Irish Sea Moss",
+      "brands": "Double Wood Supplements",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 269,
+    "original": {
+      "source_row": 269,
+      "code": "00000284",
+      "product_name": "Pain maïs",
+      "brands": "Multi Cook Purechill",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 270,
+    "original": {
+      "source_row": 270,
+      "code": "00000285",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 271,
+    "original": {
+      "source_row": 271,
+      "code": "00000286",
+      "product_name": "Aroma menta Azucren",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 272,
+    "original": {
+      "source_row": 272,
+      "code": "00000287",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 273,
+    "original": {
+      "source_row": 273,
+      "code": "00000288",
+      "product_name": "Ultra whey protein isolate",
+      "brands": "Z natural foods",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 274,
+    "original": {
+      "source_row": 274,
+      "code": "00000289",
+      "product_name": "Passiflore BIO",
+      "brands": "Bio Atlantic",
+      "quantity": "200 comprimés"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 275,
+    "original": {
+      "source_row": 275,
+      "code": "00000290",
+      "product_name": "Aroma plátano Azucren",
+      "brands": "Youth And Tunic",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 276,
+    "original": {
+      "source_row": 276,
+      "code": "00000291",
+      "product_name": "Mendiants - Studentenhaver",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 277,
+    "original": {
+      "source_row": 277,
+      "code": "00000292",
+      "product_name": "Daily Fiber Formula",
+      "brands": "Yerba Prima",
+      "quantity": "20 oz"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 278,
+    "original": {
+      "source_row": 278,
+      "code": "00000293",
+      "product_name": "Ion gut support",
+      "brands": "Probiotics",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 279,
+    "original": {
+      "source_row": 279,
+      "code": "00000294",
+      "product_name": "Aroma frutas del bosque",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 280,
+    "original": {
+      "source_row": 280,
+      "code": "00000295",
+      "product_name": "Vitamin B12",
+      "brands": "Natrol",
+      "quantity": "100 tablets"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 281,
+    "original": {
+      "source_row": 281,
+      "code": "00000296",
+      "product_name": "Triple Magnesium",
+      "brands": "Bioemblem",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 282,
+    "original": {
+      "source_row": 282,
+      "code": "00000297",
+      "product_name": "",
+      "brands": "Native",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 283,
+    "original": {
+      "source_row": 283,
+      "code": "00000298",
+      "product_name": "Gut protein",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 284,
+    "original": {
+      "source_row": 284,
+      "code": "00000299",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 285,
+    "original": {
+      "source_row": 285,
+      "code": "00000300",
+      "product_name": "Powder collagen peptides",
+      "brands": "Vital proteins",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 286,
+    "original": {
+      "source_row": 286,
+      "code": "00000301",
+      "product_name": "",
+      "brands": "Maxmedix, Vodka",
+      "quantity": "1000ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "1000",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "1000 mL",
+    "issues": [
+      "Product name missing"
+    ],
+    "status": "review",
+    "changed": true
+  },
+  {
+    "source_row": 287,
+    "original": {
+      "source_row": 287,
+      "code": "00000302",
+      "product_name": "Coq10 300mg",
+      "brands": "Nature Target",
+      "quantity": "1000ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "1000",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "1000 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 288,
+    "original": {
+      "source_row": 288,
+      "code": "00000303",
+      "product_name": "Tisane nerf - sommeil",
+      "brands": "Pharmacie verte, Vodka",
+      "quantity": "700ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "700",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "700 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 289,
+    "original": {
+      "source_row": 289,
+      "code": "00000304",
+      "product_name": "Men Hair Growth Nutraceutical",
+      "brands": "Nutrafol, Vodka",
+      "quantity": "700ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "700",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "700 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 290,
+    "original": {
+      "source_row": 290,
+      "code": "00000305",
+      "product_name": "Crystal head Vodka",
+      "brands": "Vodka",
+      "quantity": "700ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "700",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "700 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 291,
+    "original": {
+      "source_row": 291,
+      "code": "00000306",
+      "product_name": "Crockis",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 292,
+    "original": {
+      "source_row": 292,
+      "code": "00000307",
+      "product_name": "potage instantané poireau",
+      "brands": "comme j'aime",
+      "quantity": "20g"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "20",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "20 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 293,
+    "original": {
+      "source_row": 293,
+      "code": "00000308",
+      "product_name": "",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 294,
+    "original": {
+      "source_row": 294,
+      "code": "00000309",
+      "product_name": "Krill Oil",
+      "brands": "Micronesians",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 295,
+    "original": {
+      "source_row": 295,
+      "code": "00000310",
+      "product_name": "Miel crémeux",
+      "brands": "Juice Plus+, ivushka, lack, Lackmann",
+      "quantity": "g"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 296,
+    "original": {
+      "source_row": 296,
+      "code": "00000312",
+      "product_name": "huile végétale",
+      "brands": "aroma zone",
+      "quantity": "100ml"
+    },
+    "parsed": {
+      "status": "volume",
+      "value": "100",
+      "unit": "mL",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "100 mL",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 297,
+    "original": {
+      "source_row": 297,
+      "code": "00000313",
+      "product_name": "CRANBERRY BLADDER BITES ANTIOXIDANT",
+      "brands": "ZESTY PAWS",
+      "quantity": "78 gr"
+    },
+    "parsed": {
+      "status": "mass",
+      "value": "78",
+      "unit": "g",
+      "reason": "Single metric quantity; exact decimal conversion"
+    },
+    "canonical": "78 g",
+    "issues": [],
+    "status": "ready",
+    "changed": true
+  },
+  {
+    "source_row": 298,
+    "original": {
+      "source_row": 298,
+      "code": "00000314",
+      "product_name": "Collagen peptides",
+      "brands": "Vital proteins",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 299,
+    "original": {
+      "source_row": 299,
+      "code": "00000317",
+      "product_name": "Sugar free butterscotch buttons",
+      "brands": "",
+      "quantity": ""
+    },
+    "parsed": {
+      "status": "missing",
+      "value": null,
+      "unit": null,
+      "reason": "Quantity missing; no value inferred"
+    },
+    "canonical": null,
+    "issues": [
+      "Quantity missing; no value inferred"
+    ],
+    "status": "review",
+    "changed": false
+  },
+  {
+    "source_row": 300,
+    "original": {
+      "source_row": 300,
+      "code": "00000319",
+      "product_name": "",
+      "brands": "",
+      "quantity": "7 oz"
+    },
+    "parsed": {
+      "status": "unsupported",
+      "value": null,
+      "unit": null,
+      "reason": "Outside single metric mass/volume grammar; check source"
+    },
+    "canonical": null,
+    "issues": [
+      "Product name missing",
+      "Outside single metric mass/volume grammar; check source"
+    ],
+    "status": "review",
+    "changed": false
+  }
+]

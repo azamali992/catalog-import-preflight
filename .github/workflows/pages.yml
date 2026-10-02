@@ -1,0 +1,42 @@
+name: Publish public-data demonstration
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Gate publication on parity and stable measurements
+        run: |
+          python -m unittest discover -s tests -v
+          python scripts/evaluate.py
+          python -c "import json; r=json.load(open('data/results.json')); assert r['normalizer']['correct_normalized']==25 and r['normalizer']['wrong_normalized']==0 and r['ready_rows']==107 and r['review_rows']==193 and r['source_preserved_rows']==300"
+      - uses: actions/configure-pages@v5
+      - name: Stage runtime and licence only
+        run: |
+          mkdir -p _site/data
+          cp index.html style.css app.js parser.js DATA.md LICENSE DATA-LICENSE.md _site/
+          cp data/source.json data/derived.json data/provenance.json data/results.json _site/data/
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - uses: actions/deploy-pages@v4
+        id: deployment

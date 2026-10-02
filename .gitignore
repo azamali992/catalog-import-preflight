@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+artifacts/
+.env*
+!.env.example
+*.keystore
+node_modules/

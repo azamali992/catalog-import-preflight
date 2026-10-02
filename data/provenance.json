@@ -1,0 +1,22 @@
+{
+  "source_url": "https://static.openfoodfacts.org/data/en.openfoodfacts.org.products.csv.gz",
+  "http_status": 200,
+  "retrieved_utc": "2026-10-02T20:32:03.306273+00:00",
+  "headers": {
+    "Last-Modified": "Fri, 02 Oct 2026 12:29:34 GMT",
+    "ETag": "\"8d6629ac4d18f33e1ddec4cd9856f19d-77\"",
+    "Content-Length": "1275171186"
+  },
+  "selection": "first 300 rows in publisher TSV order; no filtering",
+  "fields": [
+    "code",
+    "product_name",
+    "brands",
+    "quantity"
+  ],
+  "count": 300,
+  "sha256_source_json": "520931fd9a12f568b9b5992496c7ab68a017606e6877cb15dc100c9a435fe1ed",
+  "licence_database": "ODbL-1.0",
+  "licence_contents": "DbCL-1.0",
+  "note": "Response closed after bounded decoded prefix. Full gzip not downloaded or hash-verified. Sample hash pins local exact records, not whole source."
+}

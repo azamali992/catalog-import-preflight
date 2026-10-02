@@ -1,0 +1,27 @@
+name: Reproducible checks
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: python -m unittest discover -s tests -v
+      - run: python scripts/evaluate.py
+      - name: Confirm stable metrics
+        run: |
+          python -c "import json; r=json.load(open('data/results.json')); assert r['normalizer']['correct_normalized']==25 and r['normalizer']['wrong_normalized']==0 and r['ready_rows']==107 and r['review_rows']==193 and r['source_preserved_rows']==300"
+      - run: pip install playwright==1.60.0
+      - run: python -m playwright install --with-deps chromium
+      - run: python scripts/capture.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: browser-evidence
+          path: artifacts/
